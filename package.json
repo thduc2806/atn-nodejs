@@ -10,7 +10,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "npm start -p $PORT"
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
